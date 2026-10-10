@@ -56,3 +56,58 @@ DOMAIN-SUFFIX,sndcdn.com
 
 # Pixiv: image content
 DOMAIN-SUFFIX,pximg.net
+
+# Additional public media and static assets | conservative expansion, 2026-10-11
+# These hosts are intended for asset retrieval, not login, account APIs, uploads or payments.
+# Route through an independently exiting secondary proxy only after confirming delivery.
+
+# X / Reddit: public frontend assets
+DOMAIN,abs.twimg.com
+DOMAIN-SUFFIX,redditstatic.com
+
+# Bluesky: image CDN (current and legacy)
+DOMAIN,cdn.bsky.app
+DOMAIN,cdn.bsky.social
+
+# Pinterest: image CDN
+DOMAIN-SUFFIX,pinimg.com
+
+# Tumblr: post media and static assets
+DOMAIN-SUFFIX,media.tumblr.com
+DOMAIN,static.tumblr.com
+
+# Imgur: public image direct links
+DOMAIN,i.imgur.com
+
+# Vimeo: media and thumbnail delivery
+DOMAIN-SUFFIX,vimeocdn.com
+
+# Wikimedia Commons / Wikipedia: uploaded media
+DOMAIN,upload.wikimedia.org
+
+# Flickr / Unsplash / Pexels: photography assets
+DOMAIN,live.staticflickr.com
+DOMAIN,images.unsplash.com
+DOMAIN,images.pexels.com
+
+# GIPHY / Tenor: GIFs, stickers, short clips
+DOMAIN,media.giphy.com
+DOMAIN,media0.giphy.com
+DOMAIN,media1.giphy.com
+DOMAIN,media2.giphy.com
+DOMAIN,media3.giphy.com
+DOMAIN,media4.giphy.com
+DOMAIN,media.tenor.com
+
+# Fandom / wikis: public embedded images
+DOMAIN,static.wikia.nocookie.net
+
+# Steam: store static assets, user images, video files
+DOMAIN-SUFFIX,steamstatic.com
+DOMAIN,steamuserimages-a.akamaihd.net
+DOMAIN,steamvideo-a.akamaihd.net
+
+# GitHub: public images, avatars, page static files (exclude API/auth)
+DOMAIN,avatars.githubusercontent.com
+DOMAIN,user-images.githubusercontent.com
+DOMAIN,github.githubassets.com
