@@ -1,0 +1,58 @@
+# Global media delivery domains | Shadowrocket RULE-SET
+# International services only. Curated starter list, 2026-10-11. Not exhaustive; validate using Shadowrocket connection logs.
+# Domains only. No IP-CIDR / full service APIs / shared CDN root domains.
+
+# YouTube: video transport and image assets
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,ggpht.com
+
+# X / Twitter: photos and videos
+DOMAIN,pbs.twimg.com
+DOMAIN,video.twimg.com
+
+# Reddit: uploaded media and previews
+DOMAIN,i.redd.it
+DOMAIN,v.redd.it
+DOMAIN,preview.redd.it
+DOMAIN,external-preview.redd.it
+DOMAIN-SUFFIX,redditmedia.com
+
+# Discord: attachments and media proxy
+DOMAIN,cdn.discordapp.com
+DOMAIN,media.discordapp.net
+DOMAIN-SUFFIX,discordcdn.com
+
+# Instagram / Facebook media delivery
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,fbcdn.net
+
+# TikTok: media-oriented delivery domains
+DOMAIN-SUFFIX,tiktokcdn.com
+DOMAIN-SUFFIX,tiktokcdn-us.com
+DOMAIN-SUFFIX,tiktokv.com
+DOMAIN-SUFFIX,muscdn.com
+
+# Twitch: streams and assets
+DOMAIN-SUFFIX,ttvnw.net
+DOMAIN-SUFFIX,jtvnw.net
+DOMAIN-SUFFIX,twitchcdn.net
+
+# Netflix: video and thumbnail distribution
+DOMAIN-SUFFIX,nflxvideo.net
+DOMAIN-SUFFIX,nflximg.net
+DOMAIN-SUFFIX,nflximg.com
+
+# Spotify: media CDN and audio endpoints
+DOMAIN-SUFFIX,scdn.co
+DOMAIN-SUFFIX,pscdn.co
+DOMAIN-SUFFIX,spotifycdn.com
+DOMAIN-SUFFIX,spotifycdn.net
+DOMAIN-SUFFIX,audio-ak-spotify-com.akamaized.net
+DOMAIN,audio4-ak-spotify-com.akamaized.net
+
+# SoundCloud: media assets
+DOMAIN-SUFFIX,sndcdn.com
+
+# Pixiv: image content
+DOMAIN-SUFFIX,pximg.net
