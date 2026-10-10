@@ -16,6 +16,16 @@ Ranco's personal Shadowrocket rules
 
 **使用须知：** 使用前须将配置文件中的 `<节点名>` 占位符替换为实际使用的节点名称，以确保相关分流规则正常生效。
 
+### 致谢
+
+本配置的形成与完善，得益于以下开源项目所提供的规则资源及长期维护工作。谨向相关项目的维护者与贡献者致以诚挚谢意。
+
+- [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script)
+- [MetaCubeX/meta-rules-dat](https://github.com/MetaCubeX/meta-rules-dat)
+- [VPSDance/ai-proxy-rules](https://github.com/VPSDance/ai-proxy-rules)
+- [Loyalsoldier/surge-rules](https://github.com/Loyalsoldier/surge-rules)
+- [toneywhitez/zkeen_rules](https://github.com/toneywhitez/zkeen_rules)
+
 ---
 
 ## About
@@ -27,3 +37,13 @@ The rules incorporated herein have been progressively collected, evaluated, and 
 This repository serves solely as a public archive of a personal configuration and is not intended to provide a universally applicable or general-purpose solution.
 
 **Usage Notice:** Before use, all `<节点名>` placeholders in the configuration file must be replaced with the names of the corresponding proxy nodes to ensure the proper operation of the associated routing rules.
+
+### Acknowledgements
+
+The development and refinement of this configuration have benefited from the rule resources and continued maintenance efforts of the following open-source projects. Sincere appreciation is extended to their respective maintainers and contributors.
+
+- [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script)
+- [MetaCubeX/meta-rules-dat](https://github.com/MetaCubeX/meta-rules-dat)
+- [VPSDance/ai-proxy-rules](https://github.com/VPSDance/ai-proxy-rules)
+- [Loyalsoldier/surge-rules](https://github.com/Loyalsoldier/surge-rules)
+- [toneywhitez/zkeen_rules](https://github.com/toneywhitez/zkeen_rules)
