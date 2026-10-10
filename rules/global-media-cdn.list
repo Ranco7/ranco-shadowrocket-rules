@@ -111,3 +111,27 @@ DOMAIN,steamvideo-a.akamaihd.net
 DOMAIN,avatars.githubusercontent.com
 DOMAIN,user-images.githubusercontent.com
 DOMAIN,github.githubassets.com
+
+# User-requested extension | 2026-10-11
+# Upload and protected-file hosts may carry account/session signals. Route conservatively.
+
+# X / YouTube: user-requested upload hosts (account/session sensitive)
+DOMAIN,upload.twitter.com
+DOMAIN,upload.youtube.com
+
+# OpenAI: file content delivery (access-controlled links possible)
+DOMAIN-SUFFIX,oaiusercontent.com
+
+# GitHub: raw files, media, release downloads, source archives, repository images
+DOMAIN,raw.githubusercontent.com
+DOMAIN,media.githubusercontent.com
+DOMAIN,objects.githubusercontent.com
+DOMAIN,objects-origin.githubusercontent.com
+DOMAIN,release-assets.githubusercontent.com
+DOMAIN,github-releases.githubusercontent.com
+DOMAIN,codeload.github.com
+DOMAIN,repository-images.githubusercontent.com
+
+# Telegram: CDN and file-download host families
+DOMAIN-SUFFIX,telegram-cdn.org
+DOMAIN-SUFFIX,telegramdownload.com
