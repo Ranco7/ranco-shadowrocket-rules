@@ -2,6 +2,8 @@
 
 Ranco's personal Shadowrocket rules
 
+[中文](#说明) | [English](#about)
+
 ---
 
 ## 说明
