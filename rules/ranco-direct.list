@@ -1,0 +1,25 @@
+# Ranco Personal DIRECT | Shadowrocket RULE-SET
+# Maintained by Ranco
+# Extracted from the custom DIRECT entries in Ranconue.conf (2026-10-11).
+# Policy (DIRECT) is supplied by the referring RULE-SET line.
+
+# Personal Direct Access
+DOMAIN-SUFFIX,iproyal.com
+DOMAIN-SUFFIX,tampermonkey.net
+DOMAIN,m.hotmail.com
+
+# Tencent
+DOMAIN,pd.qq.com
+DOMAIN-SUFFIX,qpic.cn
+DOMAIN-SUFFIX,gtimg.cn
+DOMAIN-SUFFIX,myqcloud.com
+DOMAIN-SUFFIX,cdn-go.com
+DOMAIN-SUFFIX,photo.qq.com
+DOMAIN-SUFFIX,qlogo.cn
+DOMAIN-SUFFIX,beacon.qq.com
+DOMAIN-SUFFIX,qq.com
+
+# Immersive Translate
+DOMAIN-SUFFIX,immersivetranslate.com
+DOMAIN-SUFFIX,imtintl.com
+DOMAIN-SUFFIX,immersive-translate.owenyoung.com
