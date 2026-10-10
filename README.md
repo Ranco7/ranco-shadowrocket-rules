@@ -14,8 +14,6 @@ Ranco's personal Shadowrocket rules
 
 本项目仅作为个人配置的公开存档，不以通用性或广泛适用性为维护目标。
 
-**使用须知：** 使用前须将配置文件中的 `<节点名>` 占位符替换为实际使用的节点名称，以确保相关分流规则正常生效。
-
 ### 致谢
 
 本配置的形成与完善，得益于以下开源项目所提供的规则资源及长期维护工作。谨向相关项目的维护者与贡献者致以诚挚谢意。
@@ -35,8 +33,6 @@ The Shadowrocket configuration maintained in this repository is a personal confi
 The rules incorporated herein have been progressively collected, evaluated, and consolidated through long-term practical use. Their organization and routing policies are determined by the specific requirements of the maintainer.
 
 This repository serves solely as a public archive of a personal configuration and is not intended to provide a universally applicable or general-purpose solution.
-
-**Usage Notice:** Before use, all `<节点名>` placeholders in the configuration file must be replaced with the names of the corresponding proxy nodes to ensure the proper operation of the associated routing rules.
 
 ### Acknowledgements
 
