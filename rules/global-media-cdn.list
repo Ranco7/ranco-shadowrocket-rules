@@ -119,9 +119,6 @@ DOMAIN,github.githubassets.com
 DOMAIN,upload.twitter.com
 DOMAIN,upload.youtube.com
 
-# OpenAI: file content delivery (access-controlled links possible)
-DOMAIN-SUFFIX,oaiusercontent.com
-
 # GitHub: raw files, media, release downloads, source archives, repository images
 DOMAIN,raw.githubusercontent.com
 DOMAIN,media.githubusercontent.com
