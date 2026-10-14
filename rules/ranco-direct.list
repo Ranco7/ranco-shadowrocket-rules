@@ -8,6 +8,10 @@ DOMAIN-SUFFIX,iproyal.com
 DOMAIN-SUFFIX,tampermonkey.net
 DOMAIN,m.hotmail.com
 
+# DeepSeek
+DOMAIN-SUFFIX,deepseek.com
+DOMAIN-SUFFIX,deepseeksvc.com
+
 # Tencent
 DOMAIN,pd.qq.com
 DOMAIN-SUFFIX,qpic.cn
