@@ -23,6 +23,9 @@ DOMAIN-SUFFIX,qlogo.cn
 DOMAIN-SUFFIX,beacon.qq.com
 DOMAIN-SUFFIX,qq.com
 
+# Bilibili
+DOMAIN-SUFFIX,bilivideo.com
+
 # Immersive Translate
 DOMAIN-SUFFIX,immersivetranslate.com
 DOMAIN-SUFFIX,imtintl.com
