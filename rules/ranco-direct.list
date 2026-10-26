@@ -28,7 +28,6 @@ DOMAIN-SUFFIX,metrics.icloud.com
 
 # Bilibili
 DOMAIN-SUFFIX,bilivideo.com
-DOMAIN,httpdns.bilivideo.com
 
 # Immersive Translate
 DOMAIN-SUFFIX,immersivetranslate.com
