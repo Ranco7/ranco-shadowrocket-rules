@@ -1,0 +1,25 @@
+# Shadowrocket RULE-SET | Latency first | thumbnails, avatars, frontend assets and typically small files
+
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN,pbs.twimg.com
+DOMAIN,i.redd.it
+DOMAIN,preview.redd.it
+DOMAIN,external-preview.redd.it
+DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-SUFFIX,twitchcdn.net
+DOMAIN-SUFFIX,nflximg.net
+DOMAIN-SUFFIX,nflximg.com
+DOMAIN,abs.twimg.com
+DOMAIN-SUFFIX,redditstatic.com
+DOMAIN,cdn.bsky.app
+DOMAIN,cdn.bsky.social
+DOMAIN-SUFFIX,pinimg.com
+DOMAIN,static.tumblr.com
+DOMAIN,static.wikia.nocookie.net
+DOMAIN,steamuserimages-a.akamaihd.net
+DOMAIN,avatars.githubusercontent.com
+DOMAIN,user-images.githubusercontent.com
+DOMAIN,github.githubassets.com
+DOMAIN,raw.githubusercontent.com
+DOMAIN,repository-images.githubusercontent.com
