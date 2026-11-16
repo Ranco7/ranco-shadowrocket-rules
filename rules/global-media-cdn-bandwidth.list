@@ -48,4 +48,5 @@ DOMAIN,release-assets.githubusercontent.com
 DOMAIN,github-releases.githubusercontent.com
 DOMAIN,codeload.github.com
 DOMAIN-SUFFIX,telegram-cdn.org
+DOMAIN-SUFFIX,cdn-telegram.org
 DOMAIN-SUFFIX,telegramdownload.com
