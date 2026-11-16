@@ -5,6 +5,16 @@ DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,youtube.com
 DOMAIN,lh3.googleusercontent.com
 DOMAIN,youtubei.googleapis.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,youtube-nocookie.com
+DOMAIN-SUFFIX,youtube.googleapis.com
+DOMAIN-SUFFIX,youtubeembeddedplayer.googleapis.com
+DOMAIN-SUFFIX,t.me
+DOMAIN-SUFFIX,telegram.me
+DOMAIN-SUFFIX,telegram.org
+DOMAIN-SUFFIX,telegra.ph
+DOMAIN-SUFFIX,graph.org
+DOMAIN-SUFFIX,legra.ph
 DOMAIN,pbs.twimg.com
 DOMAIN,i.redd.it
 DOMAIN,preview.redd.it
