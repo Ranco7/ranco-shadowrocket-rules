@@ -1,20 +1,9 @@
-# Shadowrocket RULE-SET | Throughput first | streams, large media, uploads and downloads
+# Shadowrocket RULE-SET | Throughput first | large non-video media, uploads and downloads
 
-DOMAIN-SUFFIX,googlevideo.com
-DOMAIN,video.twimg.com
-DOMAIN,v.redd.it
 DOMAIN,cdn.discordapp.com
 DOMAIN,media.discordapp.net
 DOMAIN-SUFFIX,discordcdn.com
-DOMAIN-SUFFIX,cdninstagram.com
-DOMAIN-SUFFIX,fbcdn.net
-DOMAIN-SUFFIX,tiktokcdn.com
-DOMAIN-SUFFIX,tiktokcdn-us.com
-DOMAIN-SUFFIX,tiktokv.com
-DOMAIN-SUFFIX,muscdn.com
-DOMAIN-SUFFIX,ttvnw.net
 DOMAIN-SUFFIX,jtvnw.net
-DOMAIN-SUFFIX,nflxvideo.net
 DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,pscdn.co
 DOMAIN-SUFFIX,spotifycdn.com
@@ -25,7 +14,6 @@ DOMAIN-SUFFIX,sndcdn.com
 DOMAIN-SUFFIX,pximg.net
 DOMAIN-SUFFIX,media.tumblr.com
 DOMAIN,i.imgur.com
-DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN,upload.wikimedia.org
 DOMAIN,live.staticflickr.com
 DOMAIN,images.unsplash.com
@@ -37,8 +25,6 @@ DOMAIN,media2.giphy.com
 DOMAIN,media3.giphy.com
 DOMAIN,media4.giphy.com
 DOMAIN,media.tenor.com
-DOMAIN-SUFFIX,steamstatic.com
-DOMAIN,steamvideo-a.akamaihd.net
 DOMAIN,upload.twitter.com
 DOMAIN,upload.youtube.com
 DOMAIN,media.githubusercontent.com
