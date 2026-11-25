@@ -16,3 +16,6 @@ DOMAIN-SUFFIX,steamstatic.com
 DOMAIN,steamvideo-a.akamaihd.net
 DOMAIN-SUFFIX,twitchcdn.net
 DOMAIN-SUFFIX,pinimg.com
+DOMAIN-SUFFIX,telegram-cdn.org
+DOMAIN-SUFFIX,cdn-telegram.org
+DOMAIN-SUFFIX,telesco.pe
